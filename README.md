@@ -8,7 +8,10 @@
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **rk4817341@gmail.com**
-<br><br>
+
+- <a href="https://app.netlify.com/sites/engineerrohit01/deploys"><img src="https://api.netlify.com/api/v1/badges/9f1c8ab5-3a47-4d39-a1a2-b47281e712f2/deploy-status"></a> - [Portfolio](https://engineerrohit01.netlify.app/)
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/engineerrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineerrohit01" height="30" width="40" /></a>
