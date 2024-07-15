@@ -21,16 +21,16 @@
 
 <hr>
 
-<img align="right" alt="coding" width="250" height="280" src="https://university-nic.in/wp-content/uploads/I.K.-Gujral-Punjab-Technical-University.jpg">
-
+<img align="right" alt="coding" width="180" height="200" src="https://university-nic.in/wp-content/uploads/I.K.-Gujral-Punjab-Technical-University.jpg">
 <h3 align="left">About College:</h3>
 <ul align="left">
-  <li>Name - IKG.PTU</li>
+  <li>IKG.Punjab Technical University</li>
   <li>Location - Mohali Campus 1 , Chandigarh</li>
   <li>Course - BTech</li>
   <li>Branch - CSE</li>
+  <li>Batch - 2023:2027</li>
 </ul>
-<br><br><br><br>
+<br><br>
 <hr>
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerrohit01&show_icons=true&locale=en&layout=compact" alt="engineerrohit01" /></p>
