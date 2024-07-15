@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A Computer Science & Engineering Student at Punjab Technical University</h3><br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
