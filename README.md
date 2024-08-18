@@ -24,7 +24,7 @@
 
 <hr>
 
-<img align="right" alt="coding" width="180" height="200" src="https://university-nic.in/wp-content/uploads/I.K.-Gujral-Punjab-Technical-University.jpg">
+<img align="right" alt="coding" width="180" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir-l1WZhRUOiRB1XtapwPhbd7RbFBDBREQD3AOYk0sRupWeS2nl4Xey4g_Bt8FVQHoXzDK3WoiOoFLZRQJLWtOS45VbEsxcNnze8VnB2YUl7xobH9J6lL_ua9ZlxgxXhsfpLA8P6xBMzNipaUDl8-F36lKAuGpum0hcqGqsh_Hxdx2OR5RWahe01RZZTY/s320/logo.jpeg">
 <h3 align="left">About College:</h3>
 <ul align="left">
   <li>IKG.Punjab Technical University</li>
