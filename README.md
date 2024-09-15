@@ -11,6 +11,8 @@
 
 - <a href="https://app.netlify.com/sites/engineerrohit01/deploys"><img src="https://api.netlify.com/api/v1/badges/9f1c8ab5-3a47-4d39-a1a2-b47281e712f2/deploy-status"></a> - [Portfolio](https://engineerrohit01.netlify.app/)
 
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/engineerrohit01)](https://peerlist.io/engineerrohit01)
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
