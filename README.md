@@ -13,6 +13,8 @@
 
 - [![Peerlist](https://github-readme-badge.peerlist.io/api/engineerrohit01)](https://peerlist.io/engineerrohit01)
 
+- <img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,9 +41,8 @@
 <hr>
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerrohit01&show_icons=true&locale=en&layout=compact" alt="engineerrohit01" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=engineerrohit01&show_icons=true&locale=en" alt="engineerrohit01" /></p><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p>
-<br><br><br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=engineerrohit01&show_icons=true&locale=en" alt="engineerrohit01" /></p><br>
+
 <hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/developerrohit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developerrohit" /></a></p><br>
