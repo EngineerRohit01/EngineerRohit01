@@ -1,11 +1,11 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">Hi <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='50' />, I'm Rohit</h1>
 <h3 align="center">A Computer Science & Engineering Student at Punjab Technical University</h3><br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 <p align="left"> <a href="https://twitter.com/engineerrohit01" target="blank"><img src="https://img.shields.io/twitter/follow/engineerrohit01?logo=twitter&style=for-the-badge" alt="engineerrohit01" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 
 - 📫 How to reach me **rk4817341@gmail.com**
 
