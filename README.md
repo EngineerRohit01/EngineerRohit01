@@ -1,4 +1,6 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello!%20That's%20me%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
 <h1 align="center">Hi <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='50' />, I'm Rohit</h1>
 <h3 align="center">A Computer Science & Engineering Student at Punjab Technical University</h3><br>
 
