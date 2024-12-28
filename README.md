@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F91FF&width=435&lines=Hi+%2C+I+am+Rohit+Shrivastava;An+Engineering+Student)](https://git.io/typing-svg)
 </div>
 <hr>
-<div align="center">
+<div align="left">
 <h3 >My interests are : </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
@@ -55,8 +55,7 @@
   <li>Branch - CSE</li>
   <li>Batch - 2023:2027</li>
 </ul>
-<br><br>
-<hr>
+<br>
 
 ## 📈 Contribution Graph
 
