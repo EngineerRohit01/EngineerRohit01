@@ -1,13 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!%20That's%20me%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
-</p>
-<h1 align="center">Hi <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='50' />, I'm Rohit</h1>
-<h3 align="center">A Computer Science & Engineering Student at Punjab Technical University</h3><br>
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB12CF0&width=435&lines=Welcome+To+My+World+of++Matrix.;Lets+%2C+Scroll+Down+For+Enter%E2%AC%87%EF%B8%8F.)](https://git.io/typing-svg)  
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=engineerrohit01&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Drago's GitHub Stats">
+</div>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F91FF&width=435&lines=Hi+%2C+I+am+Rohit+Shrivastava;An+Engineering+Student)](https://git.io/typing-svg)
+</div>
+<div align="center">
 <h3 >My interests are : </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
-
+</div>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
