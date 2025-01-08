@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 </div>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <br>
 <!---------------------------------------------------ABOUT MYSELF-------------------------------------------------------------------->
 <p align="left"> <a href="https://twitter.com/engineerrohit01" target="blank"><img src="https://img.shields.io/twitter/follow/engineerrohit01?logo=twitter&style=for-the-badge" alt="engineerrohit01" /></a> </p>
@@ -46,6 +46,8 @@
 <summary>my Portfolio</summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=RohitShrivastava)](https://github.com/EngineerRohit01/RohitShrivastava)
+
+<img src="https://i.imgur.com/eymQH3q.gif" height="200" width="300"><img src="https://www.bing.com/th/id/OGC.079a81bfc8dee12780d531f9e5f5ba74?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fAwzPu21b7fZlu%2fgiphy.gif&ehk=n1CBEQ1RU53aM8Gn574d6R%2b5aDR0q5efLX75IpcNZrI%3d" height="200" width="300"><img src="https://www.bing.com/th/id/OGC.f27d8184bfdcc25eb571ee839ef3a41f?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fv1.Y2lkPTc5MGI3NjExcnp6dTBvODRzZmpybDZ2NmI1dTg3aWZ0MmJpeWh2ajcwN2Zvd3F6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2fudhR8Hh1YVM6Q%2f200.gif&ehk=ucNyKdNUsf79maadIlh1W2O5gI0559rqs56KNGDklWY%3d" align="right">
 </details>
 </p>
 <br>
@@ -69,7 +71,7 @@
 
 <div align="center">
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engineerrohit01&theme=tokyo-night&hide_border=true&radius=10&area=true&height=300)](https://github.com/Drago-03)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engineerrohit01&theme=tokyo-night&hide_border=true&radius=10&area=true&height=300)](https://github.com/EngineerRohit01)
   
 </div>
 <!----------------------------------------------------------------------------------------------------------------------->
@@ -126,6 +128,6 @@
 </div>
 <!----------------------------------------------------------------------------------------------------------------------->
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![EngineerRohit01](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
 </p>
