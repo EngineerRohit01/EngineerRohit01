@@ -45,7 +45,7 @@
 <details align="left"> 
 <summary>my Portfolio</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=MyPortfolio)](https://github.com/EngineerRohit01/MyPortfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=RohitShrivastava)](https://github.com/EngineerRohit01/RohitShrivastava)
 </details>
 </p>
 <br>
