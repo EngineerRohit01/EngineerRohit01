@@ -26,6 +26,7 @@
 - :mailbox: How to reach me: [@My Gmail](rk4817341@gmail.com)
 - :telescope: Passionate about building fast, scalable and flexible products
 - :seedling: I am currently learning the JavaScript
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=EngineerRohit01)](https://github.com/EngineerRohit01/EngineerRohit01)
 
 </div>
 <br>
