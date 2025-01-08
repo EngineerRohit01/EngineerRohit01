@@ -21,15 +21,11 @@
 <br>
 <p align="left"> <a href="https://twitter.com/engineerrohit01" target="blank"><img src="https://img.shields.io/twitter/follow/engineerrohit01?logo=twitter&style=for-the-badge" alt="engineerrohit01" /></a> </p>
 <div align="left">
-<a href="rohitkusv@gmail.com">📫Reach me</a>
+<a href="https://app.netlify.com/sites/engineerrohit01/deploys"><img src="https://api.netlify.com/api/v1/badges/9f1c8ab5-3a47-4d39-a1a2-b47281e712f2/deploy-status"></a>
 
-- <a href="https://app.netlify.com/sites/engineerrohit01/deploys"><img src="https://api.netlify.com/api/v1/badges/9f1c8ab5-3a47-4d39-a1a2-b47281e712f2/deploy-status"></a>
- 
-- [![Peerlist](https://github-readme-badge.peerlist.io/api/engineerrohit01)](https://peerlist.io/engineerrohit01)
+- 📫 How to reach me **rk4817341@gmail.com**
 
-- <img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p>
 
-- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/engineerrohit01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -65,7 +61,7 @@
 
 <hr>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left"> Stats:<img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p></h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=36&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Are+you+ready%3F;Wanna+make+the+jump%3F;Will+you+take+the+Red+Pill%3F;Choice+is+an+illusion.;..........." alt="Don't take the red pill." />
 </p>
