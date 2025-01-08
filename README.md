@@ -1,4 +1,4 @@
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<!---<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>->
 <!----------------------------------------------------------------------------------------------------------------------->
 <div align="center">
 
@@ -28,11 +28,11 @@
 - :mailbox: How to reach me: [@My Gmail](rk4817341@gmail.com)
 - :telescope: Passionate about building fast, scalable and flexible products
 - :seedling: I am currently learning the JavaScript
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=EngineerRohit01)](https://github.com/EngineerRohit01/EngineerRohit01)
 <p> 
 📫  Born in India,NewDelhi
 <br>
 📌  Living in India, South-West-Delhi
+</p>
 </div>
 <!----------------------------------------------------------------------------------------------------------------------->
 <br>
@@ -41,6 +41,12 @@
 <a href="https://twitter.com/engineerrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineerrohit01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/developer-rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-rohit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/developerrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerrohit01" height="30" width="40" /></a>
+
+<details align="left"> 
+<summary>my Portfolio</summary>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=MyPortfolio)](https://github.com/EngineerRohit01/MyPortfolio)
+</details>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -58,7 +64,7 @@
   <li>Batch - 2023:2027</li>
 </ul>
 <br>
-<!----------------------------------------------------------------------------------------------------------------------->
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -69,7 +75,7 @@
 <!----------------------------------------------------------------------------------------------------------------------->
 <hr>
 <!----------------------------------------------------------------------------------------------------------------------->
-<h3 align="left"> Stats:<img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p></h3>
+<h3 align="left"> Stats: <img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p></h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=36&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Are+you+ready%3F;Wanna+make+the+jump%3F;Will+you+take+the+Red+Pill%3F;Choice+is+an+illusion.;..........." alt="Don't take the red pill." />
 </p>
