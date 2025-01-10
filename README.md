@@ -17,7 +17,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 </div>
-
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <br>
 <!---------------------------------------------------ABOUT MYSELF-------------------------------------------------------------------->
