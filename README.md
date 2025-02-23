@@ -84,14 +84,20 @@
 <details>
     <summary>Take Red Pill:</summary>
     <div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 </br>
-        <a href="https://github.com/EngineerRohit01">
+       <!-- <a href="https://github.com/EngineerRohit01">
             <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/EngineerRohit01?style=for-the-badge&labelColor=7E3ACE&color=181717">
         </a>
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>-->
         <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
 </br>
     </div>
