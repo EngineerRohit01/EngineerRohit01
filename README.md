@@ -1,53 +1,28 @@
-<!---<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>->
-<!----------------------------------------------------------------------------------------------------------------------->
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB12CF0&width=435&lines=Welcome+To+My+World+of++Matrix.;Lets+%2C+Scroll+Down+For+Enter%E2%AC%87%EF%B8%8F.)](https://git.io/typing-svg)  
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=engineerrohit01&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Rohit GitHub Stats">
-</div>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F91FF&width=435&lines=Hi+%2C+I+am+Rohit+Shrivastava;An+Engineering+Student)](https://git.io/typing-svg)
-</div>
+<img src="https://github-stats-alpha.vercel.app/api?username=engineerrohit01&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Rohit GitHub Stats">
 <hr>
 <!----------------------------------------------------------------------------------------------------------------------->
-<div align="left">
-<h3 >My interests are : </h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
-</div>
-<img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif">
 <br>
 <!---------------------------------------------------ABOUT MYSELF-------------------------------------------------------------------->
-<p align="left"> <a href="https://twitter.com/engineerrohit01" target="blank"><img src="https://img.shields.io/twitter/follow/engineerrohit01?logo=twitter&style=for-the-badge" alt="engineerrohit01" /></a> </p>
 <div align="left">
-<a href="https://app.netlify.com/sites/engineerrohit01/deploys"><img src="https://api.netlify.com/api/v1/badges/9f1c8ab5-3a47-4d39-a1a2-b47281e712f2/deploy-status"></a>
-
+  
 - :mailbox: How to reach me: [@My Gmail](rk4817341@gmail.com)
 - :telescope: Passionate about building fast, scalable and flexible products
 - :seedling: I am currently learning the JavaScript
-<p> 
-📫  Born in India,NewDelhi
-<br>
-📌  Living in India, South-West-Delhi
-</p>
 </div>
 <!----------------------------------------------------------------------------------------------------------------------->
-<br>
+
 <h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/engineerrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineerrohit01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/developer-rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-rohit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/developerrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerrohit01" height="30" width="40" /></a>
 
-<details align="left"> 
+<!--<details align="left"> 
 <summary>my Portfolio</summary>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=RohitShrivastava)](https://github.com/EngineerRohit01/RohitShrivastava)
-
-<img src="https://i.imgur.com/eymQH3q.gif" height="200" width="300"><img src="https://www.bing.com/th/id/OGC.079a81bfc8dee12780d531f9e5f5ba74?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fAwzPu21b7fZlu%2fgiphy.gif&ehk=n1CBEQ1RU53aM8Gn574d6R%2b5aDR0q5efLX75IpcNZrI%3d" height="200" width="300"><img src="https://www.bing.com/th/id/OGC.f27d8184bfdcc25eb571ee839ef3a41f?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fv1.Y2lkPTc5MGI3NjExcnp6dTBvODRzZmpybDZ2NmI1dTg3aWZ0MmJpeWh2ajcwN2Zvd3F6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2fudhR8Hh1YVM6Q%2f200.gif&ehk=ucNyKdNUsf79maadIlh1W2O5gI0559rqs56KNGDklWY%3d" align="right">
-</details>
+</details>-->
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -56,16 +31,6 @@
 
 <hr>
 <!----------------------------------------------------------------------------------------------------------------------->
-<img align="right" alt="coding" width="180" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir-l1WZhRUOiRB1XtapwPhbd7RbFBDBREQD3AOYk0sRupWeS2nl4Xey4g_Bt8FVQHoXzDK3WoiOoFLZRQJLWtOS45VbEsxcNnze8VnB2YUl7xobH9J6lL_ua9ZlxgxXhsfpLA8P6xBMzNipaUDl8-F36lKAuGpum0hcqGqsh_Hxdx2OR5RWahe01RZZTY/s320/logo.jpeg">
-<h3 align="left">About College:</h3>
-<ul align="left">
-  <li>IKG.Punjab Technical University</li>
-  <li>Location - Mohali Campus 1 , Chandigarh</li>
-  <li>Course - BTech</li>
-  <li>Branch - CSE</li>
-  <li>Batch - 2023:2027</li>
-</ul>
-<br>
 
 ## 📈 Contribution Graph
 
@@ -78,62 +43,13 @@
 <hr>
 <!----------------------------------------------------------------------------------------------------------------------->
 <h3 align="left"> Stats: <img src="https://komarev.com/ghpvc/?username=engineerrohit01&label=Profile%20views&color=0e75b6&style=flat" alt="engineerrohit01" /> </p></h3>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=36&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Are+you+ready%3F;Wanna+make+the+jump%3F;Will+you+take+the+Red+Pill%3F;Choice+is+an+illusion.;..........." alt="Don't take the red pill." />
-</p>
 <!----------------------------------------------------------------------------------------------------------------------->
-<details>
-    <summary>Take Red Pill:</summary>
-    <div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</br>
-       <!-- <a href="https://github.com/EngineerRohit01">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/EngineerRohit01?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/EngineerRohit01?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>-->
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-</br>
-    </div>
+<hr>
     <a href="https://github.com/EngineerRohit01/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=EngineerRohit01&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
-    </br>
+  
     <a href="https://github.com/EngineerRohit01/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=EngineerRohit01&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-<br>
- <a href="https://github.com/EngineerRohit01/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=EngineerRohit01&theme=dark" alt="contribution stats">
-    </a>
-</br>
-    <a href="https://github.com/EngineerRohit01/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=EngineerRohit01&theme=darkhub&no-frame=true&column=10">
-    </a>
-</br>
-</details>
-<!----------------------------------------------------------------------------------------------------------------------->
-<hr>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/developerrohit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developerrohit" /></a></p><br>
 
-</p>
-<!----------------------------------------------------------------------------------------------------------------------->
-<br>
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
-<!----------------------------------------------------------------------------------------------------------------------->
-
-![EngineerRohit01](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
-</p>
