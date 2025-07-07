@@ -7,40 +7,20 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Java", "Javascript", "Python", "CSS"],
-    askMeAbout: ["web dev", "app dev", "AI", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Javascript"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Schadcn UI", "Chakra UI"],
-        },
-        backEnd: {
-            python: ["Django"],
-        },
-mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
+const Rohit = {
+  pronouns: "He",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Styled-Components, Git, HitHub, Django, MongoDB, VScode],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        YouTube: "HiteshChaudhary" 
+                        mentor: "ChatGPT🙃"
+                      },
+ challenge: "Try To Solve DSA problems In JAva from LEETCODE"
+}
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <!----------------------------------------------------------------------------------------------------------------------->
 
 <!--<details align="left"> 
@@ -48,7 +28,7 @@ currentFocus: "Leading a way in generative AI innovation",
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EngineerRohit01&repo=RohitShrivastava)](https://github.com/EngineerRohit01/RohitShrivastava)
 </details>-->
 
-## Languages and Tools:
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools:
 
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
