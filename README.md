@@ -46,7 +46,7 @@ const Rohit = {
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></a>
 
-## my stats:
+## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50"> my stats:
 
 &nbsp;
     <a href="https://github.com/EngineerRohit01/github-readme-stats">
@@ -56,7 +56,7 @@ const Rohit = {
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=EngineerRohit01&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h2><i>Follow me:</i></h2>
+<h2> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30"> <i>Follow me:</i></h2>
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/developer-rohit/" target="_blank">
