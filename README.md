@@ -55,6 +55,12 @@ const Rohit = {
     <a href="https://github.com/EngineerRohit01/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=EngineerRohit01&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
+    <details>
+    <summary>Other Stats 👉</summary>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngineerRohit01&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EngineerRohit01&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EngineerRohit01&theme=dracula)
+    </details>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30"> <i>Follow me:</i></h2>
 <div  align="center">
@@ -74,6 +80,5 @@ const Rohit = {
   <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>-->
-
 </div>
 
