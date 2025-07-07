@@ -60,6 +60,7 @@ const Rohit = {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngineerRohit01&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EngineerRohit01&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EngineerRohit01&theme=dracula)
+ <a href="https://github.com/EngineerRohit01/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EngineerRohit01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
     </details>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30"> <i>Follow me:</i></h2>
@@ -81,4 +82,7 @@ const Rohit = {
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>-->
 </div>
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/EngineerRohit01/count.svg" />
+</p>
