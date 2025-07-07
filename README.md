@@ -6,14 +6,41 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=engineerrohit01&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Rohit GitHub Stats">
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<img align="right" alt="coding" width="300" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif">
-<br>
-<div align="left">
-  
-- :mailbox: How to reach me: [@My Gmail](rk4817341@gmail.com)
-- :telescope: Passionate about building fast, scalable and flexible products
-- :seedling: I am currently learning the JavaScript
-</div>
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Javascript", "Python", "CSS"],
+    askMeAbout: ["web dev", "app dev", "AI", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Javascript"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Schadcn UI", "Chakra UI"],
+        },
+        backEnd: {
+            python: ["Django"],
+        },
+mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
 <!----------------------------------------------------------------------------------------------------------------------->
 
 <!--<details align="left"> 
