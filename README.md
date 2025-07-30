@@ -82,10 +82,6 @@ const Rohit = {
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>-->
 </div>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/EngineerRohit01/count.svg" />
-</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanx%20For%20Your%20Visit;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
